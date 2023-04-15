@@ -26,3 +26,5 @@ git status
 git add .
 git comit -m "meu primeiro arquivo enviado ao git hub"
 git push origin main
+
+editado ultimamente pelo repositorio do git hub.
