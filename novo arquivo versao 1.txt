@@ -34,4 +34,8 @@ git pull oringin main
 
 no git bash
 
+<<<<<<< HEAD
 editado off line pra testar o pull
+=======
+nao atualizou
+>>>>>>> 53fa08244a515d6def1fa33998d4ac3c4bb0d148
