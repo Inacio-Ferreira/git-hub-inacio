@@ -33,3 +33,5 @@ executar comando:
 git pull oringin main
 
 no git bash
+
+nao atualizou
